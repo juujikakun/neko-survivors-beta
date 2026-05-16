@@ -6,16 +6,6 @@ A Vampire Survivors-style browser game with a cat/neko theme. Built with React +
 
 Built with AI for the Xiaomi MiMo 100T Program.
 
-## Screenshots
-
-| Main Menu | Gameplay |
-|:-:|:-:|
-| ![Menu](https://app.devin.ai/attachments/6efbc78c-4751-4d4e-bf49-1994d3736e99/ss1_menu.png) | ![Gameplay](https://app.devin.ai/attachments/a47d90c3-2c59-474f-b8c8-4e62413dd5f6/ss5_gameplay.png) |
-
-| Store | Quests | Options |
-|:-:|:-:|:-:|
-| ![Store](https://app.devin.ai/attachments/17c3ba25-db39-477f-9426-7216a9ca688a/ss2_store.png) | ![Quests](https://app.devin.ai/attachments/c69e8df5-0980-4a91-9751-c598da530360/ss3_quests.png) | ![Options](https://app.devin.ai/attachments/187a60be-4973-43ff-9b04-e4c39e8c86b1/ss4_options.png) |
-
 ## Features
 
 ### Gameplay
